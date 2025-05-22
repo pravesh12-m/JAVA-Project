@@ -828,7 +828,7 @@ javapublic class ResponsivePanel extends JPanel {
         repaint();
     }
 }
-**Accessibility Implementation:**
+##﻿９ *𝐀𝐜𝐜𝐞𝐬𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧:*
 java// Screen reader support
 JButton submitButton = new JButton("Submit Form");
 submitButton.getAccessibleContext().setAccessibleDescription(
